@@ -1,37 +1,37 @@
 <div align="center">
-<h1 align="center">Oh, So Simple HTML CV!</h1>
+<h1 align="center">Oh, le CV HTML si simple!</h1>
 
-<img alt="Simple HTML CV" src="https://github.com/ritaly/HTML-CSS-CV-demo/blob/master/img/resume_icon.png" />
+<img alt="CV HTML simple" src="https://github.com/ritaly/HTML-CSS-CV-demo/blob/master/img/resume_icon.png" />
 
-HTML and CSS template for your outstanding job applications
+Modèle HTML et CSS pour vos candidatures exceptionnelles
 </div>
 
-## What is Oh, So Simple HTML CV?
+## Qu'est-ce que le CV HTML si simple ?
 
-**Oh, So Clear HTML CV!** is simple, clear and aesthetic **Resume** template for beginners to better understand HTML5 and CSS basics by example.
+**Oh, So Clear HTML CV!** est un modèle simple, clair et esthétique de **CV** pour les débutants afin de mieux comprendre les bases de HTML5 et CSS par l'exemple.
 
-**This page will help you:**
+**Cette page va vous aider:**
 
-* create legible *CV (Curriculum Vitae)* / *Resume*
-* create website with HTML5 and CSS
-* create CSS flexbox layout
-* implement good-looking responsive layouts
-* use Font Awesome 5 for social media
+* à créer des *CV (Curriculum Vitae)* / *CV* lisibles
+* créer un site web avec HTML5 et CSS
+* créer une mise en page flexbox CSS
+* mettre en œuvre des mises en page attrayantes et réactives
+* utiliser Font Awesome 5 pour les médias sociaux
 
-This repo contains the final source code for free tutorial.
+Ce repo contient le code source final pour le tutoriel gratuit.
 
-Full explanation and task you can find in Polish: [CV HTML / CSS](https://www.flynerd.pl/2018/07/stworz-cv-w-html-i-css-krok-po-kroku.html)
+L'explication complète et la tâche peuvent être trouvées en polonais : [CV HTML / CSS](https://www.flynerd.pl/2018/07/stworz-cv-w-html-i-css-krok-po-kroku.html)
 
-## Demo
-Check demo here: [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
+## Démo
+Voir la démo ici : [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
 
-## Credits
-Please feel free to copy any part of this repo for your own uses.
+## Crédits
+N'hésitez pas à copier n'importe quelle partie de ce repo pour vos propres besoins.
 
-**[Fly Nerd](https://www.flynerd.pl/)** - I will be happy if you mention **FlyNerd** as an inspiration.
+**[Fly Nerd](https://www.flynerd.pl/)** - Je serais heureux que vous mentionniez **FlyNerd** comme source d'inspiration.
 
-Thanks:
+Merci :
 
-- **Raleway** - set of free fonts thanks to Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini
+- **Raleway** - jeu de polices gratuit grâce à Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini
 
-- **Freepik** - title icon made by [Freepick](http://www.freepik.com), licensed: CC 3.0
+- **Freepik** - icône de titre réalisée par [Freepick] (http://www.freepik.com), sous licence : CC 3.0
