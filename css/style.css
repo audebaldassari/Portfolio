@@ -32,7 +32,7 @@ footer {
 header {
   padding: 2em;
   text-align: center;
-  background-image: url("/img/baniere.png");
+  background-image: url("../img/baniere.png");
   background-size: cover;
   color: white;
 }
