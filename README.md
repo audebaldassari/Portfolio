@@ -25,16 +25,16 @@ L'explication complète et la tâche peuvent être trouvées en polonais : [CV H
 
 ## Démo
 
-Voir la démo ici : [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/ target="\_blank")
+Voir la démo ici : [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
 
 ## Crédits
 
 N'hésitez pas à copier n'importe quelle partie de ce repo pour vos propres besoins.
 
-**[Fly Nerd](https://www.flynerd.pl/ target="\_blank")** - Je serais heureuse que vous mentionniez **FlyNerd** comme source d'inspiration.
+**[Fly Nerd](https://www.flynerd.pl/)** - Je serais heureuse que vous mentionniez **FlyNerd** comme source d'inspiration.
 
 Merci :
 
 - **Raleway** - jeu de polices gratuit grâce à Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini
 
-- **Freepik** - icône de titre réalisée par [Freepick] (http://www.freepik.com target="\_blank"), sous licence : CC 3.0
+- **Freepik** - icône de titre réalisée par [Freepick] (http://www.freepik.com), sous licence : CC 3.0
