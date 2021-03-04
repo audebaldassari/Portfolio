@@ -37,4 +37,4 @@ Merci :
 
 - **Raleway** - jeu de polices gratuit grâce à Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini
 
-- **Freepik** - icône de titre réalisée par **[Freepick](http://www.freepik.com)**, sous licence : CC 3.0
+- **Freepik** - icône de titre réalisée par **[Freepick](http://www.freepik.com target="_blank/")**, sous licence : CC 3.0
